@@ -9,7 +9,7 @@ import java.util.Properties;
 
 public class ConnectionFactory {
 
-    private static Connection conn = null; //objeto de conecção com o banco de dados do JDBC
+    private static Connection conn = null; //objeto de conexão com o banco de dados do JDBC
 
     public static Connection getConnetion() {
             try {
