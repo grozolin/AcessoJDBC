@@ -1,0 +1,15 @@
+hooks
+hooks/*
+out
+out/*
+refs
+refs/*
+.idea
+.idea/*
+info
+info/*
+*.iml
+.gradle
+.gradle/*
+
+
